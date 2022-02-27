@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine additionall reasons to those presented in a letter by the ministers of London to the Assembly of Divines at Westminster, 1 Ian. 1645. Of like power and force against the toleration of Independency together with some taken out of the letter it selfe (of those ministers in which their reasons are enclosed) which lay couched somewhat obscurely.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78455</idno>
+            <idno type="STC">Wing C1684</idno>
+            <idno type="STC">Thomason E316_10</idno>
+            <idno type="STC">ESTC R200525</idno>
+            <idno type="EEBO-CITATION">99861246</idno>
+            <idno type="PROQUEST">99861246</idno>
+            <idno type="VID">158969</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78455)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158969)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E316[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine additionall reasons to those presented in a letter by the ministers of London to the Assembly of Divines at Westminster, 1 Ian. 1645. Of like power and force against the toleration of Independency together with some taken out of the letter it selfe (of those ministers in which their reasons are enclosed) which lay couched somewhat obscurely.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the black spread-Eagle, at the west end of Pauls,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645 [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Thomason catalogue lists under 1646.</note>
+                  <note>Annotation on Thomason copy: "Jan: 15 [1646]".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Westminster Assembly (1643-1652) --  Early works to 1800.</term>
+               <term>Congregationalism --  Early works to 1800.</term>
+               <term>Religious tolerance --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158969:1" rendition="simple:additions"/>
+            <p>Certaine Additionall REASONS To thoſe preſented in A LETTER By the MINISTERS of <hi>London</hi> to the Aſſembly of DIVINES at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> 1 <hi>Ian.</hi> 1645.</p>
+            <p>Of like power and force againſt the TOLERATION OF <hi>INDEPENDENCY</hi> Together with ſome taken out of the <hi>Letter</hi> it ſelfe (of thoſe Miniſters in which their Reaſons are encloſed) which lay couched ſomewhat obſcurely.</p>
+            <q xml:lang="lat">Quos perdere vult—dementat.</q>
+            <q>
+               <bibl>2 Tim. 3.9.</bibl> 
+               <p>They ſhall proceed no further: but their folly ſhall be made manifeſt to all men, as theirs alſo was.</p>
+            </q>
+            <q>
+               <bibl>Iſa. 42.19.</bibl> 
+               <p>Who is blinde, but my ſervant? or deafe, as my meſſen<g ref="char:EOLhyphen"/>ger that I ſent?</p>
+            </q>
+            <q>
+               <bibl>Ioh. 11.48.</bibl> 
+               <p>If we let him thus alone, all men will believe on him, and the Romans will come, &amp;c.</p>
+            </q>
+            <q>
+               <bibl>Ioh. 19.12.</bibl> 
+               <p>If thou let this man goe, thou art not Ceſars friend.</p>
+            </q>
+            <q>
+               <bibl>2 Pet. 15.</bibl> 
+               <p>Account that the Toleration of the Lord is ſalvation.</p>
+            </q>
+            <q>
+               <bibl>Lam. 4.3.</bibl> 
+               <p>Even the ſea-monſters draw out the breaſt, they give ſuck to their young ones: the daughter of my people is become cruell, like the Oſtriches in the wilderneſſe.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Calvert,</hi> at the black ſpread-Eagle, at the Weſt end of <hi>Pauls,</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:158969:2"/>
+            <div type="part">
+               <p>THe Reaſons under the firſt head, <hi>viz. That the deſires and endeavours of the Independents for a Toleration, are at this time extreamly unſeaſo<g ref="char:EOLhyphen"/>nable and preproperous.</hi>
+               </p>
+               <p n="1">1. The gap is not wide enough for the enemy to break in upon us, <hi>Therefore it is at this time extramely unſeaſonable and preprope<g ref="char:EOLhyphen"/>rous, to make it up by endeavouring a Toleration of Independency.</hi>
+               </p>
+               <p n="2">2. The <hi>Independents</hi> great ſervice and faithfull aſſiſtance in the reſcue of the Kingdome near loſt, is now freſh in every ones eye, <hi>Therefore the deſires and endeavours of the</hi> Independents <hi>for a Toleration are at this time extreamly unſeaſonable and preproperous.</hi>
+               </p>
+               <p n="3">3. The State for the preſent hath great need of the continuance of their aſſiſtance, <hi>Therefore their deſires to the State for a Tolera<g ref="char:EOLhyphen"/>tion are at this time extreamely unſeaſonable and preproperous.</hi>
+               </p>
+               <p n="4">4. The <hi>Independents</hi> have hopes for the conſiderations mentio<g ref="char:EOLhyphen"/>ned, that if now they move, their deſires and endeavours may ſpeed for a Toleration, <hi>Therefore it is extreamely unſeaſonable and prepro<g ref="char:EOLhyphen"/>perous for them ſo to doe.</hi>
+               </p>
+               <p n="5">5. The Parliament have appointed a Committee to find out a way of Accommodation and Agreement between the <hi>Presbyteri<g ref="char:EOLhyphen"/>ans</hi> and <hi>Independents,</hi> and out of <hi>our large experience of your Zeale of Gods glory and care of his afflicted Church, and earneſt endeavours to promote the compleat Reformation of it, and of your ready concur<g ref="char:EOLhyphen"/>rence with us to improve any meanes that may be found conducible to this end;</hi> We are perſwaded through you it will come to no<g ref="char:EOLhyphen"/>thing; <hi>Therefore it is extreamely unſeaſonable and preproperous for the</hi> Independents <hi>to deſire and endeavour a Toleration.</hi>
+               </p>
+               <p n="6">6. The <hi>Independents</hi> will not be perſwaded, to joyn with us as ſome of the City did in Petitioning the Parliament to alter their rule that we might be inveſted with full power, and ſo to intruſt us with their Liberty, <hi>Therefore it is at this time extreamely unſea<g ref="char:EOLhyphen"/>ſonable and preproperous for the</hi> Independents <hi>to deſire and endeavour and Toleration.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Reaſons under the ſecond head, which is, <hi>That their deſires and endeavours after Toleration are unreaſonable and unequall in di<g ref="char:EOLhyphen"/>vers regards.</hi>
+               </head>
+               <p n="1">1. We are the <hi>Major number</hi> and have the Major part in the
+<pb n="3" facs="tcp:158969:2"/>Kingdom adhering to us even thoſe that have no Religion, <hi>There<g ref="char:EOLhyphen"/>fore the deſires and endeavours of the</hi> Independents <hi>for a Toleration are unequall.</hi>
+               </p>
+               <p n="2">2. There is an exceeding great want of godly and learned Mi<g ref="char:EOLhyphen"/>niſters to inſtruct the people in the knowledge of Ieſus Chriſt, ſo that many parts of this Kingdome muſt be left deſtitute except the <hi>Independents</hi> be imployed, <hi>Therefore their deſires and endeavours for Toleration are unreaſonable and unequall.</hi>
+               </p>
+               <p n="3">3. A Toleration ſhould be <hi>given</hi> the Independents <hi>without asking</hi> in conſideration of their good ſervice (above ſpecified) if no more, <hi>The King ſaid what hath been done to</hi> Mordecay <hi>for this, the Kings ſervants ſaid, There is nothing done for him,</hi> Heſt. 6.3. <hi>Therefore the</hi> Independents <hi>deſires and endeavours for Toleration are unrea<g ref="char:EOLhyphen"/>ſonable and unequall.</hi>
+               </p>
+               <p n="4">4. The <hi>Independents</hi> are perſwaded in their conſciences, that the Order, Diſcipline and Government, they hold forth, is of Ieſus Chriſt, <hi>Therefore their deſires and endeavours for Toleration are unreaſonable and unequall.</hi>
+               </p>
+               <p n="5">5. Wee doe acknowledge the <hi>Independents, godly and and learned Brethren,</hi> and ſuch as <hi>God hath received, Rom.</hi> 14.3. Therefore do judge it <hi>unreaſonable and unequall</hi> to heare from them of dwelling in unity with them by a <hi>Toleration.</hi>
+               </p>
+               <p>And this appeares further from thoſe Scriptures, <hi>Rom.</hi> 15.1. <hi>Phil.</hi> 3.15, 16. <hi>&amp; Gal.</hi> 6.1. beare one anothers burthens, <hi>Therefore a Toleration is unreaſonable and unequal.</hi>
+               </p>
+               <p>Alſo that <hi>Mat.</hi> 9.13. Goe yee and learne what that meanes, I will have mercy and not ſacrifice, <hi>Therefore the deſires and endea<g ref="char:EOLhyphen"/>vours of</hi> Independents <hi>for Toleration,</hi> and mercy in the different manner of ſacrifice or outward worſhip is <hi>unreaſonable and unequal.</hi>
+               </p>
+               <p>And that Scripture, <hi>Rom.</hi> 13.10. <hi>Love is the fulfilling of the Law,</hi> which we preach all of us againſt the <hi>Antinomians</hi> in ſuch a way as doe beare the name of <hi>Legall Preachers.</hi> Now <hi>love beareth long, and is kind, envyeth not, is not eaſily provoked, thinketh no evill, beareth all things, believeth all things, hopeth all things, endureth all things,</hi> 1 Cor. 23.4, 5, 7. <hi>Therefore the</hi> Independents <hi>deſires of love</hi> to be expreſſed in <hi>Toleration are unreaſonable and unequal.</hi>
+               </p>
+               <p n="6">6. The <hi>Biſhops</hi> would never allow <hi>us</hi> a Toleration, <hi>Therefore the deſire is unreaſonable, &amp;c.</hi>
+               </p>
+               <p n="7">
+                  <pb n="4" facs="tcp:158969:3"/> 7. Many of us it is well known ſuffered with our Independent Brethren under the Biſhops tyranny, and groaned under ſad bur<g ref="char:EOLhyphen"/>thens, then, Therefore we judge it <hi>unreaſonable and unequall,</hi> that they diſſenting from us now, ſhould <hi>deſire a Toleration.</hi>
+               </p>
+               <p n="8">8. <hi>All things</hi> are not to be tolerated, nor all men to doe <hi>what they liſt,</hi> as we in our ordinary preaching doe plead againſt the <hi>Independents, Therefore the</hi> Independents <hi>deſire to be conſidered in the ſmaller matters of uniformity, is unreaſonable and unequall.</hi>
+               </p>
+               <p n="9">9. Your ſelves have undertaken to the Independents long ſince, namely in your Conſiderations tendered <hi>Dec.</hi> 23. 1643. in theſe words, That no doubt the counſels of the
+<note place="margin">* Ego &amp; Rex meus.</note> Aſſembly, and the care of the Parliament will be not only &amp;c. but to preſerve whatever ſhall appeare to be the rights of particular Congregations accor<g ref="char:EOLhyphen"/>ding to the word, and to beare with ſuch whoſe conſciences cannot conforme in all things to the publike Rule, ſo farre as the word of God would have them borne withall. <hi>Therefore it is unreaſona le for the Independents to deſire and endeavour a Toleration.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Reaſons under the third head, <hi>viz. That Indepen<g ref="char:EOLhyphen"/>dency is a Schiſme.</hi>
+               </head>
+               <p n="1">1. The <hi>Independents</hi> doe depart from the <hi>corruptions</hi> of our Churches; <hi>therefore Independency is a Schiſme.</hi>
+               </p>
+               <p n="2">2. The <hi>Independents</hi> doe profeſſe they cannot approve of all that we doe or would have eſtabliſhed, nor joyne with us therein <hi>without ſinning againſt Chriſt, therefore Independency is a Schiſm.</hi>
+               </p>
+               <p n="3">3. The <hi>Independents</hi> by holding out their way, and by the ſuc<g ref="char:EOLhyphen"/>ceſſe thereof, are to us an <hi>occaſion</hi> of envyings, ſtrife, and diviſion, ſo that <hi>we walk as men,</hi> and appeare to be <hi>carnall</hi> that ſhould bee thought to be <hi>ſpirituall; therefore Independency is a Schiſm.</hi>
+               </p>
+               <p n="4">4. The <hi>Independents</hi> deſigne is to divide and ſeparate the <hi>Saints</hi> from the <hi>World,</hi> which we would piece together, for <hi>the Churches coat may be of divers colours,</hi> as we ſay in the begining of our Let<g ref="char:EOLhyphen"/>ter; <hi>therefore Independency is a Schiſm.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Reaſons under the fourth head, <hi>viz. Many miſchiefs will inevi<g ref="char:EOLhyphen"/>tably follow upon this Toleration, and that both to Church and Commonwealth.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>Firſt, <hi>To the Church.</hi>
+                  </head>
+                  <p n="1">
+                     <pb n="5" facs="tcp:158969:3"/> 1. God is now pulling downe Antichriſt, and pulling up the foundation and ſtump of that Monſter which lies in the <hi>Pride, Ambition and Worldlineſſe of the Miniſtry,</hi> which the Independents by their preaching are daily diſcovering and rooting up; and the perfecting of this is a miſchiefe that will inevitably follow upon the Toleration of Independency. Now ſhall not <hi>Dagons</hi> ſtump ſtand? ſhall the Saints proceed further againſt Antichriſt then Antichriſt can againſt them? (the Lord ſtill <hi>leaving them a ſeed;)</hi> therefore it is but time to cry with that Watcher from heaven, <hi>Dan.</hi> 4.23. <hi>Leave the ſtump of the root thereof in the earth.</hi>
+                  </p>
+                  <p n="2">2. Our Trade and living would by degrees fall to the ground by Toleration; for either we muſt part with all the godly that will not endure mixture, or elſe we muſt make a Schiſme, and diſ<g ref="char:EOLhyphen"/>pleaſe the worldly party, and where is then our ſubſiſtence? ſo that Independency endangers the <hi>cutting off of a Tribe</hi> in Iſrael, not <hi>Benjamin</hi> but <hi>Levi; therefore Independency is a miſchiefe to the Church.</hi>
+                  </p>
+                  <p n="3">3. The Independents by their preaching and other deport<g ref="char:EOLhyphen"/>ment do inſinuate into, and gaine upon the people the reputa<g ref="char:EOLhyphen"/>tion of painfull and humble ſpirited men; ſo that they will in time cloathe themſelves with the love of all that are but civill and rationall, and we the godly, painfull and Orthodox Miniſtry of the Land, if wee ſhall proceed as is our deſire to doe, we ſhall not only loſe our maintenance, but our honour and eſteeme; <hi>therefore the toleration of theſe men is miſchievous to the Church.</hi>
+                  </p>
+                  <p n="4">4 The Independents do intruſt the people in a Liberty which they ſay Chriſt hath given them, and cry up the Scripture for the only Rule, and that compleat and perfect, and exalt Chriſt in his propheticall Office, directing all men to a dependance on the Spirit of Chriſt for deciding Controverſies, and reſolving Doubts, and by this meanes Miniſters and Synods will not have that Au<g ref="char:EOLhyphen"/>thority they have formerly had, when the people ſhall examine their determinations, by which they ought to be concluded. <hi>Ther<g ref="char:EOLhyphen"/>fore Independency is miſchievous to the Church.</hi>
+                  </p>
+                  <p n="5">5 Independents are not only againſt Archbiſhops, Biſhops, Deanes, &amp;c. but againſt all whatſover Prelacy of Miniſters, (and ſo directly againſt that Presbyterian power we would have eſta<g ref="char:EOLhyphen"/>bliſhed;) judging it a plant which God hath not planted, and
+<pb n="6" facs="tcp:158969:4"/>therefore will root it up; <hi>therefore Independency is a miſchiefe to the Church.</hi>
+                  </p>
+                  <p n="6">6. The Independents will ever bee looking for further light, and go on ſtill in Reformation, and would carry the people along with them <hi>to grow in grace and in the knowledge of Jeſus Chriſt,</hi> 2 <hi>Pet.</hi> 3. laſt, by which meanes things will never bee ſetled per<g ref="char:EOLhyphen"/>fectly while the Church is militant, <hi>therefore Independency is a miſchiefe to the Church.</hi>
+                  </p>
+                  <p n="7">7. The Scripture ſaies, Perſecution ſhall alwayes await the Saints in the world as being appointed thereunto, 1 <hi>Theſ.</hi> 3.3. Now if there be toleration, there will be no perſecution; and then this miſchiefe will follow, the word of God will fall to the ground, and the Church will want that glory of Martyrs ſuffe<g ref="char:EOLhyphen"/>rings and ſuffrages to the truth, and trialls of Faith, and that glo<g ref="char:EOLhyphen"/>ry of Gods juſtice in executing judgement on ſuch as will not ſee when his hand is lifted up, whom yet he will make to ſee and bee aſhamed for their envy at the people (according to that Scripture <hi>Iſa.</hi> 26.11.) and the fire of the enemies themſelves ſhall devoure them.</p>
+                  <p n="8">8. It is impoſsible the whole Land ſhould be of one minde and judgement in all the matters of Religion, be it never ſo much en<g ref="char:EOLhyphen"/>deavoured on all hands, unleſſe thoſe that be contrary minded be deſtroyed; <hi>therefore toleration is a miſchiefe to the Church.</hi>
+                  </p>
+                  <p n="9">9 The tares are forbidden to be puld up, leſt the wheat be rooted up with them, which danger will bee avoyded by a toleration; <hi>therefore toleration is a miſchiefe.</hi>
+                  </p>
+                  <p n="10">10 The Independents notwithſtanding all our <hi>Declarations</hi> (both in Pulpits and publike places) and <hi>private ſuggeſtions</hi> a<g ref="char:EOLhyphen"/>gainſt them, as that they are <hi>Antimagiſtraticall, that they will not make known their way, that they cannot ſuffer Preſbytery, that they will in the end uſe the ſword for themſelves, that they are the Au<g ref="char:EOLhyphen"/>thors of all the diviſions, that Independency is the inlet to all Errors and Hereſies;</hi> in which we are credited by ſome, and notwith<g ref="char:EOLhyphen"/>ſtanding our endeavours to keep them and caſt them out of Le<g ref="char:EOLhyphen"/>ctures, and to withdraw the ſtipend from the Expoſition Lectures; yet for all this they encreaſe daily, and whether they do draw tis ſure enough the godly cleaves to them: Therefore this miſchiefe muſt needs grow by the toleration of them; and therefore
+<pb n="7" facs="tcp:158969:4"/>how unequall and unreaſonable it is for them to deſire ſuch a thing?</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2 <hi>Branch. Miſchiefs to the Commonwealth.</hi>
+                  </head>
+                  <p n="1">1 In the multitude of people is the ſafety and honour of the Commonwealth: if there be no Toleration, there will be a dimi<g ref="char:EOLhyphen"/>nution of people; <hi>therefore a Toleration is miſchievous to the Com<g ref="char:EOLhyphen"/>monwealth.</hi>
+                  </p>
+                  <p n="2">2 Gods bleſſing goes along with his people that truly feare him, and redounds to the benefit of Families and Nations that entertaine and che<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſh them. <hi>I will bleſſe them that bleſſe thee. Therefore the toleration of Independents is a miſchief to the Common<g ref="char:EOLhyphen"/>wealth.</hi>
+                  </p>
+                  <p n="3">3 The unthankfulneſſe of a people to thoſe that have bin the in<g ref="char:EOLhyphen"/>ſtruments of their ſalvation, hath brought judgements upon them, as in that inſtance of <hi>Abimolech</hi> and the men of <hi>Shechem,</hi> between whom God ſent an evill ſpirit, whereby fire came forth to the mutuall deſtruction of one another; and this for not remembring the Lord their God, and not ſhewing kindneſſe to the houſe of <hi>Gedeon,</hi> according to all the goodneſſe he had ſhewed to Iſrael, <hi>Iudg.</hi> 8 34, 35. <hi>Therefore the toleration of Independents who have bin inſtruments of ſo much good to the kingdom, is miſchievous to the Commonwealth.</hi> For which of theſe good works do you ſtone me?</p>
+                  <p n="4">4 The honour and wiſdom of Commonwealths is, to nouriſh thoſe that are peaceable and beneficiall; <hi>therefore it is miſchievous to the Commonwealth to tolerate Independents.</hi>
+                  </p>
+                  <p n="5">5 The principles of the Independents carry them to ſuffer where they cannot obey, though under thoſe who owe their ſafety to them (in a great meaſure) under God: <hi>therfore the toleration of Independents is a miſchiefe to the Commonwealth.</hi>
+                  </p>
+                  <p n="6">6 It is a Maxim or Rule in Policy, <hi>Make much of knaves, ho<g ref="char:EOLhyphen"/>neſt men will do you no hurt:</hi> Therefore the toleration of Indepen<g ref="char:EOLhyphen"/>dents, is a miſchiefe to the Commonwealth.</p>
+                  <p n="7">7 The ſight of thoſe that have been ſo <hi>obliging</hi> as cannot be re<g ref="char:EOLhyphen"/>quited, is an <hi>eyſore: therefore the toleration of Independents is a miſchiefe to the Commonwealth.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:158969:5"/>
+               <head>Reaſons explicitly drawn forth, that were but implicitly couched in the Letter it ſelfe.</head>
+               <p n="1">1 <hi>We are exceeding apprehenſive of the deſirableneſſe of the Chur<g ref="char:EOLhyphen"/>ches peace, and of the pleaſantneſſe of Brethrens <g ref="char:V">Ʋ</g>nity:</hi> Therefore our Brethren the Independents muſt not be tolerated.</p>
+               <p n="2">2 Page 1 <hi>By reaſon of different lights and different ſights among brethren, there may be diſſenting in opinion:</hi> therefore there ought not to be a toleration of any opinion differing from us.</p>
+               <p n="3">3 Page <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad. <hi>The Churches Coat may be of divers colours, yet why ſhould there be any rent in it?</hi> By Non-toleration it is <hi>de facto</hi> rent aſunder: <hi>Therefore there muſt be no toleration.</hi>
+               </p>
+               <p n="4">4 Pag. ead. <hi>Have we not a Touchſtone of Truth, the good Word of God?</hi> The Independents deſire no other; holding it to be the only one, and will not admit an Aſſembly of Divines into the place thereof: <hi>therfore the Independents are not to be tolerated.</hi>
+               </p>
+               <p n="5">5 Page 2 <hi>The Independents will not unboſome themſelves to us their moſt affectionate Brethren.</hi> Now we being their moſt affecti<g ref="char:EOLhyphen"/>onate Brethren, cannot permit any Toleration of them in ſuch things, as we reckon the diſputes ingendred about them to be but frivolous and vaine janglings, <hi>as Reaſon</hi> 5, <hi>under the firſt branch of the fourth Head.</hi>
+               </p>
+               <p n="6">6 Page 6 <hi>None ſhould have more rejoyced then our ſelves in the eſtabliſhment of a brotherly, peaceable and Chriſtian Accommodation,</hi> which can be attaind by no other means then a Toleration: for our worldly intereſts and prudentiall principles will not ſuffer us to go to them, and their Conſciences will not ſuffer them to come to us; therfore we cannot judge it reaſonable they ſhould be tolerated; nay, <hi>we deteſt and abhorre the much endeavoured Toleration.</hi>
+               </p>
+               <p n="7">7 Pag ead, <hi>Our bowels, our bowels are ſtirred within us,</hi> there<g ref="char:EOLhyphen"/>fore they muſt not be tolerated that have kept the ſword out of our bowels, and preſerved our liberty of profeſſing the doctrine of Sal<g ref="char:EOLhyphen"/>vation. <hi>O our bowels, our bowels,</hi> all does us no good whatſoever we do enjoy or have in hope, <hi>ſo long as</hi> Mordecay <hi>ſits in the Kings Gate</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
